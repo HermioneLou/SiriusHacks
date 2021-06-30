@@ -38,7 +38,7 @@ Install instructions are available in the [INSTALL](https://github.com/Chia-Netw
 Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br>
 
 **Resources for New Chialisp Developers**<br>
-If you are not familliar with Chialisp, we list some [material](ChiaLisp_resource.md) which could be helpful. 
+If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resource.md) which could be helpful. 
 
 
 ## Highlights of Hackathon
@@ -62,10 +62,35 @@ If you are not familliar with Chialisp, we list some [material](ChiaLisp_resourc
 -	Project Incubation
 -	Meet up with TOP Investment Institutions<br><br>
 
-## Application
-Go to website: [srs.vc](http://srs.vc/#/) for registration and application, this takes 3 minutes.
+## Evaluation Criteria
+**ChiaLisp Based (Y/N)**<br>
+The project must be Chialisp-based. Even if the team already launched a project in other blockchain infrastructure, they shall migrate the project to Chia Network using Chialisp.
 
-Participants has 14 days to prepare the project. (instructions can be found on github：siriushacks/ chia-online-hackathon), and the project should be uploaded after deadline.
+**Category (45%)** <br>
+To ensure the diversity of Chia ecosystem, the players are required to adress certain issues, including Better Layer2, Better DeFi and Better NFT.
+
+More attempts are also welcome, including but not limited to: decentralized computing, decentralized storage, privacy, decentralized identity, media and advertising, games, etc.
+
+**Creativity (20%)**<br>
+Creativity is core value. Investors and the community tend to capture innovative ideas and projects. Compared with existing blockchain projects or application scenarios, in what way does the project show its creativity? Does the project make full use of "Proof of Space" and "Proof of Time"?
+
+**Feasibility (30%)**<br>
+The judges screen projects based on the white papers/technical documents uploaded to Github, and observe whether it is technically feasible? Does the project have technical or economic flaws during execution? Is the business or token model reasonable and sustainable in the long run?
+
+**Team Execution (25%)**<br>
+A combination of solid leadership, communication, and access to good resources contribute to a good team. Does the co-founder have starup experience? Do the (co-)founders have experience in the blockchain field or any other start-ups?
+
+**Adoption&Market (20%)**<br>
+The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted?
+
+## Application
+Go to website: [srs.vc](http://srs.vc/#/) for application, this takes 3 minutes.
+
+You are required to prepare the following materials for application: 
+1) Project details 
+2) Slides/video/whitepaper/website which introduces the project 
+3) Github repository link (Optional)
+4) Project logo (Optional)
 
 We will contact you after the project is uploaded, and the limited-edition-NFT will be granted then.<br><br>
 
