@@ -35,7 +35,7 @@ Most users should only install harvesters, farmers, plotter, full nodes, and wal
 Install instructions are available in the [INSTALL](https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL) section of the [chia-blockchain repository wiki](https://github.com/Chia-Network/chia-blockchain/wiki).
 
 **Running**<br>
-Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br><br>
+Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br>
 
 **Resources for New Chialisp Developers**<br>
 If you are not familliar with Chialisp, we list some [material](ChiaLisp_resource.md) which could be helpful. 
