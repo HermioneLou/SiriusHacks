@@ -2,7 +2,7 @@ README<br>
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
 
 **Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius !**
-
+  * Hackathon dates: 17th July- 30th August
 
 ## Introduction
 Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 10th July and 10th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding; All teams who send applications and upload qualified projects will receive a welcome prize of 100 dollar and access to limited edition NFT, please read more for details below.
