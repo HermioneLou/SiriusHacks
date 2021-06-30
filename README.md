@@ -90,7 +90,7 @@ Go to website: [srs.vc](http://srs.vc/#/) for application, this takes 3 minutes.
 You are required to prepare the following materials for application: 
 1) Project details 
 2) Slides/video/whitepaper/website which introduces the project 
-3) Github repository link (Optional)
+3) Github repository link
 4) Project logo (Optional)
 
 We will contact you after the project is uploaded, and the limited-edition-NFT will be granted then.<br><br>
