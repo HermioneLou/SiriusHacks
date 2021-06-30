@@ -39,6 +39,7 @@ Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-block
 
 **Resources for New Chialisp Developers**<br>
 If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resource.md) which could be helpful. 
+We are also going to hold a Chialisp Camp during July 17 - July 19. You can subscribe our [Twitch channel]() and [YouTube channel]() beforehand to receive a notification of live streaming workshop.
 
 
 ## Highlights of Hackathon
