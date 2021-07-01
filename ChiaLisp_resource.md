@@ -11,7 +11,7 @@ To further learn how to create smart transactions using Chialisp, read [Coins, S
 
 For evaluating programs, read this ["Deeper in CLVM"](https://chialisp.com/docs/deeper_into_clvm) to learn how ChiaLisp evaluates programs. 
 
-"The High Level Language, Compiler and Functions"(https://chialisp.com/docs/high_level_lang ) introduces how to write Chialisp programs and how to compile the higher level language to lower level language so that the smart contracts could run in practice. 
+["The High Level Language, Compiler and Functions"](https://chialisp.com/docs/high_level_lang) introduces how to write Chialisp programs and how to compile the higher level language to lower level language so that the smart contracts could run in practice. 
 
 As certain common functions are used in a lot of puzzles, read this [summary of Common functions in ChiaLisp](https://chialisp.com/docs/common_functions). 
 
@@ -24,7 +24,7 @@ If your are curious about the reasons why this old language is used as Chia's on
 
 Chia network provides a tutorial video on [youtube](https://www.youtube.com/watch?v=dEFLJSU87K8&t=1768s) about the introduction to developing in chia.<br>
 
-We are also going to hold a Chialisp Training Camp during **17th July - 19th July**, please subscribe our [Twitch channel]() and [Youtube channel]() to receive notifications of live streaming workshops.
+We are also going to hold a Chialisp Training Camp during **17th July - 19th July**, please subscribe our [Twitch channel](https://www.twitch.tv/siriuslabs) and [Youtube channel](https://www.youtube.com/channel/UCI7jc7zBcIvlISfCFLfSkCA) to receive notifications of live streaming workshops.
 
 
 
